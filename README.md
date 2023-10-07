@@ -5,7 +5,7 @@ Welcome to my repository for the Data Scientist Professional with Python track o
 ## Project List
 
 1. Investigating Netflix Movies and Guest Stars in The Office
-   - [Project Link]([https://www.datacamp.com/projects/investigating-netflix-movies](https://github.com/khaled-elsaeed/DataCamp/tree/d28365d3f20c12881cab60c9e4f61f9935a68b5c/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)) 
+   - [Project Link]([https://www.datacamp.com/projects/investigating-netflix-movies](https://github.com/khaled-elsaeed/DataCamp/tree/d28365d3f20c12881cab60c9e4f61f9935a68b5c/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office))
 
    - This project involved analyzing a dataset of Netflix movies using Python. I explored movie durations, countries of origin, and genre trends within the Netflix catalog. By 
       visualizing the data and drawing insights, I gained a better understanding of Netflix's movie offerings.
