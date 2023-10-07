@@ -4,17 +4,9 @@ Welcome to my repository for the Data Scientist Professional with Python track o
 
 ## Project List
 
-1. [Project Name 1](link-to-project-1) - A brief description of the first project.
-2. [Project Name 2](link-to-project-2) - A brief description of the second project.
-3. [Project Name 3](link-to-project-3) - A brief description of the third project.
-   (Add more projects as needed)
+1. Investigating Netflix Movies and Guest Stars in The Office (link-to-project-1) - This project involved analyzing a dataset of Netflix movies using Python. I explored movie durations, countries of origin, and genre trends within the Netflix catalog. By visualizing the data and drawing insights, I gained a better understanding of Netflix's movie offerings.
 
-## Folder Structure
 
-- `project1/`: Contains the code and files for Project 1.
-- `project2/`: Contains the code and files for Project 2.
-- `project3/`: Contains the code and files for Project 3.
-   (Organize your folders accordingly)
 
 ## Getting Started
 
@@ -28,9 +20,6 @@ To run the code for these projects, you'll need to have Python and the required 
 
 If you have suggestions or improvements for any of the projects, please feel free to open an issue or submit a pull request. Contributions are welcome!
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
