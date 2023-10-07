@@ -4,7 +4,10 @@ Welcome to my repository for the Data Scientist Professional with Python track o
 
 ## Project List
 
-1. Investigating Netflix Movies and Guest Stars in The Office (link-to-project-1) - This project involved analyzing a dataset of Netflix movies using Python. I explored movie durations, countries of origin, and genre trends within the Netflix catalog. By visualizing the data and drawing insights, I gained a better understanding of Netflix's movie offerings.
+1. Investigating Netflix Movies and Guest Stars in The Office
+   - (link-to-project-1)
+   - This project involved analyzing a dataset of Netflix movies using Python. I explored movie durations, countries of origin, and genre trends within the Netflix catalog. By 
+      visualizing the data and drawing insights, I gained a better understanding of Netflix's movie offerings.
 
 
 
